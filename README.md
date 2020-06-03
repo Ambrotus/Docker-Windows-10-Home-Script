@@ -15,4 +15,4 @@ and the container features
 
 Thanks to all the people here that put all the info in one area.
 Source: https://forums.docker.com/t/installing-docker-on-windows-10-home/11722/28
-
+my old pastebin link - https://pastebin.com/nTmZiJVe
